@@ -1,8 +1,8 @@
 ## Commercial mortgage-backed securities (CMBS) Machine Learning Project
 
 - Goal
-   - Promote the **data science cultures** in clients companies 
-   - Integrate the machine learning models in existing automative system 
+   - Promote the **data science cultures** in the clients companies 
+   - Integrate the machine learning models in our existing automative system 
    - Make the clients understand and see the value of data science in their domain 
    - Deliver the **right products** at the right time 
    
@@ -12,4 +12,5 @@
   - Select relevant metrics/variables that can tune and improve our current solutions
  
 - Quesitons
-  - 
+  - Milestone timeline 
+  - Workflow needed? 
