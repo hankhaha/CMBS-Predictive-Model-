@@ -1,6 +1,8 @@
 ## Commercial mortgage-backed securities (CMBS) Machine Learning Project
 
-![](https://www.sjbgrowthcapital.com/wp-content/uploads/2015/05/cmbs-loans-sjb.png)
+<p align="center">
+<img src="https://www.sjbgrowthcapital.com/wp-content/uploads/2015/05/cmbs-loans-sjb.png" width="400" height="300" />
+</p>
 
 - Goal
    - Promote the **data science cultures** in the clients companies 
