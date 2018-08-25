@@ -6,7 +6,7 @@
 
 - Goal
    - Promote the **data science cultures** in the client's companies 
-   - Integrate the machine learning models in our existing automotive system 
+   - Integrate the machine learning models in our existing automated system 
    - Make the clients understand and see the value of data science in their domain 
    - Deliver the **right products** at the right time 
    
